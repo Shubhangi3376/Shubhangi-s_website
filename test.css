@@ -502,6 +502,7 @@ footer {
 .footer-content {
     max-width: 800px;
     margin: 0 auto;
+    text-align: center;
 }
 
 .footer h3 {
@@ -513,6 +514,7 @@ footer {
 .social-icons {
     list-style-type: none;
     padding: 0;
+    justify-content:center;
 }
 
 .social-icons li {
